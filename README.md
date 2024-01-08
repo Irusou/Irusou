@@ -49,5 +49,5 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-<img alt="snake eating contributions" src="https://raw.githubusercontent.com/Irusou/Irusou/output/github-contribution-grid-snake.svg"/>
+<img alt="snake eating contributions" src="https://raw.githubusercontent.com/Irusou/Irusou/output/github-contribution-grid-snake-dark.svg"/>
 </div>
