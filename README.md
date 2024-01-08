@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h2>A Software engineer, passionate with web development</h2>
+<h2 align="center">A Software engineer student, passionate about web development</h2>
 
 <div align="center">
 
@@ -50,4 +50,31 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Irusou/Irusou/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<h2 align="center">⚡  Stats ⚡</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Irusou&theme=dark&border_radius=10" alt="GitHub Streak" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Irusou&layout=compact&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Irusou&layout=compact&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Irusou&layout=compact&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="stats"/>
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Irusou&layout=compact&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Irusou&layout=compact&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irusou&layout=compact&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="top-langs"/>
+  </picture>
 </div>
