@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Irusou.Irusou)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Irusou.Irusou" alt="visitor badge"/>
 ### Hi there 👋
 
 <!--
