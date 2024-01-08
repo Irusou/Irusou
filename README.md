@@ -1,6 +1,10 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Irusou.Irusou" alt="visitor badge"/>
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Irusou.Irusou" alt="visitor badge"/>
 
+<h1 align="centre">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7B2&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World!%F0%9F%91%8B;Let's+code!+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+</h1>
 <!--
 **Irusou/Irusou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
