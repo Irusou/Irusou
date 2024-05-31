@@ -41,7 +41,9 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,mysql" />
+      <br />
       <img src="https://skillicons.dev/icons?i=nodejs,express,react,sass,tailwind" />
+      <br />
       <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vite,postman,idea,figma" />
     </a>
   </p>
