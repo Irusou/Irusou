@@ -40,9 +40,9 @@
   <h2>🔹Languages - Frameworks - Tools🔹</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,c,cs,html,css,js,ts,dart,pug,mysql" />
-      <img src="https://skillicons.dev/icons?i=nodejs,angular,bootstrap,dotnet,express,flutter,react,sass,tailwind" />
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vite,powershell,postman,neovim,idea,figma,firebase,androidstudio" />
+      <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,mysql" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,react,sass,tailwind" />
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vite,postman,idea,figma" />
     </a>
   </p>
 </div>
