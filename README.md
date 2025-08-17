@@ -12,7 +12,7 @@
 
   🎓 I'm currently studying at **[IPS](https://portal.ips.pt/ests/pt/web_base.gera_pagina?P_pagina=8321)**
 
-  🌱 I'm currently learning **Java, Javascript, C#, SQL, MongoDB, NeoVim**
+  🌱 I'm currently learning **Go, Javascript, Rust, Postgresql**
 
   💬 Ask me about **React, Node.js, Java, MySQL**
 
