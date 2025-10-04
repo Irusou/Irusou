@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  🎓 I'm currently working at **[INSTICC]([https://portal.ips.pt/ests/pt/web_base.gera_pagina?P_pagina=8321](https://portal.insticc.org/))**
+  🎓 I'm currently working at **[INSTICC](https://portal.insticc.org/)**
 
   🌱 I'm currently learning **Go, Javascript, Rust, Postgresql**
 
@@ -22,10 +22,6 @@
 
   <a href="mailto:irus0ubusiness@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/irus0u/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-morais-686994273/">
