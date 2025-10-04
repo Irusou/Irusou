@@ -6,17 +6,15 @@
   </a>
 </h1>
 
-<h2 align="center">A Software engineer student, passionate about web development</h2>
+<h2 align="center">A Software engineer, passionate about web development</h2>
 
 <div align="center">
 
-  🎓 I'm currently studying at **[IPS](https://portal.ips.pt/ests/pt/web_base.gera_pagina?P_pagina=8321)**
+  🎓 I'm currently working at **[INSTICC]([https://portal.ips.pt/ests/pt/web_base.gera_pagina?P_pagina=8321](https://portal.insticc.org/))**
 
   🌱 I'm currently learning **Go, Javascript, Rust, Postgresql**
 
-  💬 Ask me about **React, Node.js, Java, MySQL**
-
-  🎱 Beside coding i enjoy **[Games](https://steamcommunity.com/id/Irus0u/), [Anime](https://myanimelist.net/profile/Irus0u)**
+  💬 Ask me about **React, Node.js, Java, SQL**
   
 </div>
 
