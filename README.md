@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h2 align="center">Software Engineer building full-stack applications with TypeScript, Node.js and React.</h2>
+<h2 align="center">Software Engineer | Backend Architecture, Performance Optimization & Product Development</h2>
 
 <div align="left">
 
