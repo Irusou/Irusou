@@ -6,15 +6,28 @@
   </a>
 </h1>
 
-<h2 align="center">A Software engineer, passionate about web development</h2>
+<h2 align="center">Software Engineer building full-stack applications with TypeScript, Node.js and React.</h2>
 
 <div align="center">
 
-  🎓 I'm currently working at **[]()**
-
-  🌱 I'm currently learning **Go, Javascript, Rust, Postgresql**
-
-  💬 Ask me about **React, Node.js, Java, SQL**
+  Software Engineer from Portugal.
+  
+  Currently focused on:
+  
+  • TypeScript
+  • Node.js
+  • React
+  • Backend Architecture
+  • Performance Optimization
+  
+  Recently:
+  • Led development of a business-critical management platform
+  • Reduced backend response times from ~15s to ~5s
+  • Reduced API payload sizes by ~87%
+  
+  Current Project:
+  🚀 Job Tracker
+  A full-stack application for managing job applications and interview processes.
   
 </div>
 
