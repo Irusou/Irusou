@@ -8,7 +8,7 @@
 
 <h2 align="center">Software Engineer building full-stack applications with TypeScript, Node.js and React.</h2>
 
-<div align="center">
+<div align="left">
 
   Software Engineer from Portugal.
   
